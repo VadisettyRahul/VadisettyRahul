@@ -2,7 +2,7 @@
 - 👀 I’m interested in GenAI
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on open source projects based on AI ML
-- 📫 How to reach me ...
+- 📫 How to reach me: vadisettyrahul@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Comedian
 
